@@ -1,0 +1,26 @@
+cara react :
+1. npx create-react-app namafile
+2. cd folder-yg-tadi-dibuat
+3. npm install --global yarn
+4. yarn add antd /npm install antd
+5. yarn add react-router-dom@6 /npm install react-router-dom@6
+6. yarn add axios / npm install axios
+
+oauth :
+
+yarn add react-google-login / npm install react-google-login
+yarn add @react-oauth/google / npm install @react-oauth/google
+
+
+redux :
+
+yarn add redux / npm install redux
+yarn add react-redux / npm install react-redux
+yarn add redux-thunk / npm install redux-thunk
+yarn add redux-devtools-extension
+yarn add react-bootstrap
+yarn add bootstrap
+yarn add bootstrap-icons
+yarn add @reduxjs/toolkit / npm install @reduxjs/toolkit
+
+6. yarn start / npm start
